@@ -1,1 +1,1 @@
-Tiny GPT Project
+My projects
